@@ -1,11 +1,7 @@
 # svd-alin
 
 # Description
-Program to plot a vector and its multiplication with SVD's matrices, U, Σ, and V<sup>T</sup>
-<br>
-
-<br>
-In this problem, we're given a matrix
+Given a matrix
 <br>
 
 ```math
@@ -25,3 +21,6 @@ x = \begin{bmatrix}
 1\\
 \end{bmatrix}
 ```
+
+<br>
+Make a program that operates and plots the vector **x** with the matrices from SVD decomposition of A, i.e **U**, **Σ**, and **V<sup>T</sup>**
