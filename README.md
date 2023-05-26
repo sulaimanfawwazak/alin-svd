@@ -23,4 +23,13 @@ x = \begin{bmatrix}
 ```
 
 <br>
-Make a program that operates and plots the vector **x** with the matrices from SVD decomposition of A, i.e **U**, **Σ**, and **V<sup>T</sup>**
+Make a program that operates and plots the vector 
+**x**
+with the matrices from SVD decomposition of 
+**A**
+, i.e
+**U**
+, 
+**Σ**
+, and 
+**V<sup>T</sup>**
