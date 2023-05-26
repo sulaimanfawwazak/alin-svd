@@ -10,8 +10,8 @@ In this problem, we're given a matrix
 
 ```math
 A = \begin{bmatrix}
-4 & 0 \\
-3 & -5 \\
+4 & 0\\
+3 & -5\\
 \end{bmatrix}
 ```
 
@@ -21,7 +21,7 @@ and a vector
 
 ```math
 x = \begin{bmatrix}
-1 \\
-1 \\
+1\\
+1\\
 \end{bmatrix}
 ```
