@@ -1,4 +1,4 @@
-# alin-svd
+# svd-alin
 
 # Description
 Program to plot a vector and its multiplication with SVD's matrices, U, Σ, and V<sup>T</sup>
