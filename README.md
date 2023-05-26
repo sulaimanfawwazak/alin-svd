@@ -6,16 +6,18 @@ Program to plot a vector and its multiplication with SVD's matrices, U, Σ, and 
 
 <br>
 In this problem, we're given a matrix <br>
-$$A = \begin{bmatrix}
+```math
+A = \begin{bmatrix}
 4 & 0 \\
 3 & -5 \\
 \end{bmatrix}
-$$
+```
 <br>
 and a vector
 <br>
-$$x = \begin{bmatrix}
+```math
+x = \begin{bmatrix}
 1 \\
 1 \\
 \end{bmatrix}
-$$
+```
