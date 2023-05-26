@@ -5,9 +5,20 @@ Program to plot a vector and its multiplication with SVD's matrices, U, Σ, and 
 <br>
 
 <br>
-In this problem, we're given a matrix <br>
-**The Cauchy-Schwarz Inequality**
-
+In this problem, we're given a matrix
+<br>
 ```math
-\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
+A = \begin{bmatrix}
+4 & 0 \\
+3 & -5 \\
+\end{bmatrix}
+```
+<br>
+and a vector
+<br>
+```math
+x = \begin{bmatrix}
+1 \\
+1 \\
+\end{bmatrix}
 ```
